@@ -75,7 +75,9 @@ a {
 }
 
 .logo {
+  background: white;
   width: 10rem;
+  border-radius: 22px;
 }
 
 .section-wrap {
